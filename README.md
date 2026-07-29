@@ -40,10 +40,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pandusf1&style=for-the-badge&color=7C3AED)
 
-![](https://img.shields.io/github/followers/pandusf1?style=for-the-badge&color=7C3AED)
-
-![](https://img.shields.io/github/stars/pandusf1?style=for-the-badge&color=7C3AED)
-
 </p>
 
 ---
