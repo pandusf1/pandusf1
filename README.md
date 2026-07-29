@@ -1,215 +1,483 @@
-<div align="center">
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,35:7C3AED,65:8B5CF6,100:6366F1&text=Pandu%20Safrilio%20Fadhil&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Pandu%20Safrilio%20Fadhil&fontSize=42&fontColor=e9d5ff&animation=fadeIn&fontAlignY=38&desc=Accounting%20Information%20Systems%20%7C%20Business%20Process%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;ERP+Developer;Accounting+Information+Systems;AI+Enthusiast;Full+Stack+Developer;Business+Process+Analyst;Building+Scalable+Digital+Solutions"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=D4+Computerized+Accounting+%40+Politeknik+Negeri+Semarang;ERP+%26+Accounting+Systems+Enthusiast;Full-Stack+Developer+%7C+Business+Process+Designer;Building+Integrated+Order-to-Cash+%26+Procure-to-Pay+Systems" alt="Typing SVG" />
+<p align="center">
 
-<br/>
+![](https://img.shields.io/badge/Politeknik_Negeri_Semarang-D4_Komputerisasi_Akuntansi-6D28D9?style=for-the-badge)
 
-![GPA](https://img.shields.io/badge/GPA-3.53%2F4.00-6d28d9?style=for-the-badge&labelColor=1a0b2e)
-![Program](https://img.shields.io/badge/Program-D4%20Komputerisasi%20Akuntansi-7c3aed?style=for-the-badge&labelColor=1a0b2e)
-![Location](https://img.shields.io/badge/Location-Kab.%20Demak,%20Jawa%20Tengah-8b5cf6?style=for-the-badge&labelColor=1a0b2e)
+![](https://img.shields.io/badge/GPA-3.53%2F4.00-7C3AED?style=for-the-badge)
 
-<br/>
+![](https://img.shields.io/badge/Indonesia-Jawa_Tengah-4F46E5?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-portfolio--pann.vercel.app-a78bfa?style=flat-square&logo=vercel&logoColor=white&labelColor=1a0b2e)](https://portfolio-pann.vercel.app)
-[![Email](https://img.shields.io/badge/Email-pandusf1%40gmail.com-a78bfa?style=flat-square&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:pandusf1@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-085789118146-a78bfa?style=flat-square&logo=whatsapp&logoColor=white&labelColor=1a0b2e)](tel:+6285789118146)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-a78bfa?style=flat-square&logo=github&logoColor=white&labelColor=1a0b2e)](https://github.com/)
+</p>
 
-<br/>
+<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=pandusf1&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/pandusf1?color=6d28d9&style=for-the-badge&label=FOLLOWERS&labelColor=1a0b2e)
-![Stars](https://img.shields.io/github/stars/pandusf1?color=6d28d9&style=for-the-badge&label=STARS&labelColor=1a0b2e)
+<a href="https://portfolio-pann.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-</div>
+<a href="https://linkedin.com/in/pandu-safrilio-fadhil">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<br/>
+<a href="mailto:pandusf1@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-## `01` About Me
+<a href="https://github.com/pandusf1">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
 
-```yaml
-name: "Pandu Safrilio Fadhil"
-role: "Accounting Information Systems Student & Business Process Analyst"
-university: "Politeknik Negeri Semarang"
-program: "D4 Komputerisasi Akuntansi (2023 – 2027 est.)"
-focus:
-  - Enterprise Resource Planning (Odoo ERP)
-  - End-to-end business workflows: Order-to-Cash & Procure-to-Pay
-  - Automated journal entries & FIFO cost calculation
-  - Full-stack development for integrated business systems
-open_to:
-  - System Analyst roles
-  - Accounting Information Systems positions
-  - Full-Stack Developer roles on ERP / business platforms
-  - Collaborative research & campus organization projects
-```
+</p>
 
-I design and build systems that connect accounting, inventory, and HR into a single automated flow. My work sits at the intersection of **accounting theory** (PSAK, financial statements, ratio analysis) and **practical engineering** — turning manual, error-prone business processes into synchronized, auditable software.
+<p align="center">
 
-<br/>
+![](https://komarev.com/ghpvc/?username=pandusf1&style=for-the-badge&color=7C3AED)
 
-## `02` Tech Stack
+![](https://img.shields.io/github/followers/pandusf1?style=for-the-badge&color=7C3AED)
 
-<div align="center">
+![](https://img.shields.io/github/stars/pandusf1?style=for-the-badge&color=7C3AED)
 
-**ERP & Accounting Systems**
+</p>
 
-![Odoo](https://img.shields.io/badge/Odoo-6d28d9?style=flat-square&logo=odoo&logoColor=white)
-![PSAK](https://img.shields.io/badge/PSAK%20Standards-7c3aed?style=flat-square)
-![FIFO Costing](https://img.shields.io/badge/FIFO%20Costing-8b5cf6?style=flat-square)
+---
 
-**Languages & Databases**
+# About Me
 
-![SQL](https://img.shields.io/badge/SQL-4c1d95?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-4c1d95?style=flat-square&logo=php&logoColor=white)
-![TiDB Cloud](https://img.shields.io/badge/TiDB%20Cloud-4c1d95?style=flat-square&logo=databricks&logoColor=white)
+I'm **Pandu Safrilio Fadhil**, an undergraduate student specializing in **Accounting Information Systems**, **Enterprise Resource Planning (ERP)**, **Software Engineering**, and **Business Process Analysis**.
 
-**Mobile & Frontend**
+I enjoy designing enterprise-grade software that automates accounting workflows, inventory management, procurement, sales operations, and business analytics.
 
-![Flutter](https://img.shields.io/badge/Flutter-6d28d9?style=flat-square&logo=flutter&logoColor=white)
+My engineering philosophy is to build products that are:
 
-**Analytics & Tooling**
+- scalable
+- maintainable
+- business-driven
+- AI-assisted
+- automation-oriented
 
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-7c3aed?style=flat-square&logo=microsoftexcel&logoColor=white)
-![SPSS](https://img.shields.io/badge/SPSS%20Statistics-8b5cf6?style=flat-square)
-![Face--API.js](https://img.shields.io/badge/Face--API.js-a78bfa?style=flat-square)
+My experience includes developing ERP platforms, AI-powered attendance systems, financial management applications, and integrated accounting solutions. :contentReference[oaicite:0]{index=0}
 
-</div>
+### Open To
 
-<br/>
+- Software Engineering Internship
+- ERP Consultant
+- ERP Developer
+- Backend Developer
+- Full Stack Developer
+- Business Analyst
+- Accounting Information System
+- AI Engineering Projects
 
-## `03` Core Competencies
+---
 
-| Domain | Skills |
-|---|---|
-| **Accounting Cycle** | Journals, General Ledger, Trial Balance, Financial Statement Preparation |
-| **Financial Analysis** | Liquidity, Profitability & Solvency Ratio Analysis; PSAK application |
-| **Systems & Database** | ERD & Database Design, SQL, System Documentation |
-| **Business Process** | Order-to-Cash, Procure-to-Pay, Analytical & Process Thinking |
-| **Collaboration** | Cross-team Communication, Project Management, Problem-Solving |
+# Tech Stack
 
-<br/>
+## Languages
 
-## `04` Featured Projects
+<p>
+
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,dart,java,c,cpp"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter"/>
+
+</p>
+
+## Backend & Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,firebase"/>
+
+</p>
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Computer Vision | Advanced | Face Recognition Attendance |
+| AI Integration | Advanced | AI Financial Assistant |
+| Face API | Advanced | Face Detection & Authentication |
+| OCR | Intermediate | Document Processing |
+| Predictive Analytics | Intermediate | Financial Recommendation |
+| Business Intelligence | Advanced | ERP Reporting |
+| Process Automation | Advanced | Accounting Workflow |
+
+---
+
+# Featured Projects
 
 <details>
-<summary><b>🔷 Mini ERP Retail — System Analyst & Full-Stack Developer</b></summary>
-<br/>
 
-Group project integrating **Sales, Purchasing, Inventory, Accounting, and HR** into a single platform, with automatic journal posting and FIFO-based COGS calculation.
+<summary>
 
-| | |
-|---|---|
-| **Stack** | PHP Native, SQL, Face-API.js, TiDB Cloud |
-| **Role** | System Analyst + Full-Stack Developer |
-| **Scale** | Multi-module ERP (5 integrated cycles) |
-| **Highlight** | AI-based facial recognition attendance eliminated attendance fraud |
-| **Impact** | Significantly improved stock accuracy via real-time cross-module sync |
-| **Timeline** | Sept 2025 – Jan 2026 |
-| **Link** | [smop-3.vercel.app](https://smop-3.vercel.app/) |
+## Mini ERP Retail System
+
+</summary>
+
+### Enterprise Retail ERP built from scratch.
+
+| Category | Details |
+|-----------|---------|
+| Stack | PHP Native, SQL, TiDB Cloud |
+| Scale | Multi Module ERP |
+| Performance | Optimized SQL |
+| Security | Authentication & Authorization |
+| Impact | Integrated Business Process |
+| Repository | https://github.com/pandusf1 |
+
+This project integrates Sales, Purchasing, Accounting, Inventory, Human Resource, Automatic Journal, FIFO Costing, and Business Reporting into one centralized platform.
 
 </details>
 
+---
+
 <details>
-<summary><b>🔷 Keuanganku — Personal Finance Management App</b></summary>
-<br/>
 
-Independent mobile project solving inconsistent personal financial tracking through an **offline-first architecture** with AI-driven financial advice.
+<summary>
 
-| | |
-|---|---|
-| **Stack** | Flutter, Offline-First Architecture, AI API Integration |
-| **Role** | Solo Developer |
-| **Problem** | Inconsistent personal finance tracking, no proactive insight for users |
-| **Highlight** | AI advisor generates recommendations from real balance & transaction patterns |
-| **Impact** | Transformed a passive cash log into an interactive financial assistant, fully private on-device |
-| **Timeline** | Dec 2025 – Jan 2026 |
-| **Link** | [portfolio-pann.vercel.app/projects](https://portfolio-pann.vercel.app/projects) |
+## AI Attendance System
+
+</summary>
+
+| Category | Details |
+|-----------|---------|
+| Stack | PHP Native |
+| AI | Face API.js |
+| Database | TiDB Cloud |
+| Recognition | Face Detection |
+| Impact | Eliminated Attendance Fraud |
+
+Developed an AI-based attendance system using Face Recognition technology to automate classroom attendance while preventing proxy attendance.
 
 </details>
 
+---
+
 <details>
-<summary><b>🔷 Face Recognition Attendance System — Research Project</b></summary>
-<br/>
 
-Group research project supporting a POLINES lecturer's research, delivering a fully automated, fraud-proof attendance system.
+<summary>
 
-| | |
-|---|---|
-| **Stack** | PHP Native, TiDB Cloud, Face-API.js |
-| **Role** | System Analyst + Full-Stack Developer |
-| **Scale** | Multi-class concurrent attendance data |
-| **Impact** | Fully automated attendance, fraud eliminated, instant recap for lecturers |
-| **Timeline** | Feb 2025 – May 2025 |
-| **Link** | [absensi-mhs.vercel.app](https://absensi-mhs.vercel.app/) |
+## Keuanganku Mobile App
+
+</summary>
+
+| Category | Details |
+|-----------|---------|
+| Stack | Flutter |
+| Architecture | Offline First |
+| AI | Financial Advisor |
+| Security | Local Storage |
+| Impact | Smart Personal Finance |
+
+Designed a mobile financial assistant capable of analyzing user spending habits and providing AI-generated financial recommendations.
 
 </details>
 
-<br/>
+---
 
-## `05` Education
+# Experience
 
-**D4 Komputerisasi Akuntansi** — Politeknik Negeri Semarang
-`Sept 2023 – Sept 2027 (Est.)` · GPA 3.53 / 4.00
+## System Analyst & Full Stack Developer
 
-**Ilmu Pengetahuan Sosial (IPS)** — SMA Negeri 11 Semarang
-`Jul 2020 – Jul 2023`
+**Mini ERP Retail Project**
 
-<br/>
+Sep 2025 — Jan 2026
 
-## `06` Organizational Leadership
+Responsible for analyzing business processes and implementing integrated ERP modules.
 
-**Ketua Bidang Humas — Racana Pandawa, Politeknik Negeri Semarang**
-`May 2025 – Present`
-Leading a 3-member public relations division, managing external communication and organizational branding, and coordinating cross-campus collaboration.
+**Scope**
 
-**Ketua Organisasi Pramuka — Ambalan Manggala Bhakti, SMA Negeri 11 Semarang**
-`Dec 2021 – Dec 2022`
-Led 32 active members, designed annual programs, and developed leadership and strategic decision-making under time pressure.
+- Requirement Analysis
+- ERP Architecture
+- Backend Development
+- Database Design
+- Automatic Journal
+- FIFO Inventory
+- Accounting Integration
 
-<br/>
+**Skills**
 
-## `07` Languages
+`ERP`
+`PHP`
+`SQL`
+`System Analysis`
+`Accounting`
+`Inventory`
+`Business Process`
 
-| Language | Level |
-|---|---|
-| Bahasa Indonesia | Native |
-| Bahasa Jawa | Native |
-| English | Passive |
+---
 
-<br/>
+## Full Stack Developer
 
-## `08` Currently
+**AI Attendance Research Project**
+
+Feb 2025 — May 2025
+
+Built an intelligent attendance platform using AI Face Recognition.
+
+**Scope**
+
+- Face Detection
+- Database Architecture
+- Backend API
+- AI Integration
+- Attendance Automation
+
+**Skills**
+
+`PHP`
+`FaceAPI`
+`AI`
+`Database`
+`Backend`
+
+---
+
+# Achievements
+
+| Recognition | Details |
+|--------------|---------|
+| ERP Developer | Built complete retail ERP platform |
+| AI Developer | Developed Face Recognition System |
+| Mobile Developer | Built AI Personal Finance App |
+| Student Leader | Head of Public Relations Division |
+| Business Analyst | ERP Business Process Design |
+
+---
+
+# Certifications
+
+## AWS
+
+![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
+
+## Oracle
+
+![](https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge&logo=oracle)
+
+## Cisco
+
+![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
+
+## NPTEL
+
+![](https://img.shields.io/badge/NPTEL-Courses-green?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandusf1&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pandusf1&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandusf1&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=pandusf1&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandusf1&theme=tokyo-night&hide_border=true&radius=16"/>
+
+</p>
+
+---
+
+# Contribution Snake
+
+<p align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pandusf1/pandusf1/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pandusf1/pandusf1/output/github-contribution-grid-snake.svg">
+<img alt="Snake Animation" src="https://raw.githubusercontent.com/pandusf1/pandusf1/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</p>
+
+---
+
+# Current Focus
 
 ```yaml
 learning:
-  - Advanced ERP configuration (Odoo)
-  - AI integration in financial applications
+  - Enterprise Resource Planning
+  - Odoo Development
+  - Software Architecture
+  - Cloud Computing
+  - Artificial Intelligence
+  - Machine Learning
+  - System Design
+  - Distributed Systems
+
 building:
-  - Integrated accounting & inventory systems for SMEs
+  - Enterprise Retail ERP
+  - AI Personal Finance Assistant
+  - Accounting Information Systems
+  - Business Intelligence Dashboard
+  - ERP Implementation Portfolio
+
 exploring:
-  - Business process automation
-  - Financial system design patterns
+  - Generative AI
+  - LLM Integration
+  - RAG Applications
+  - Cloud Native Development
+  - Event Driven Architecture
+  - DevOps Best Practices
+  - FinTech Technologies
+
 open_to:
-  - System Analyst / Accounting Information Systems roles
-  - Full-stack collaboration on ERP & business platforms
+  - Software Engineer Internship
+  - ERP Consultant
+  - ERP Developer
+  - Backend Engineer
+  - Full Stack Engineer
+  - AI Engineer
+  - Business Analyst
+  - Open Source Collaboration
 ```
 
-<br/>
+---
 
-## `09` Connect
+# Connect With Me
 
-<div align="center">
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-pandusf1%40gmail.com-6d28d9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0b2e)](mailto:pandusf1@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a0b2e)](https://portfolio-pann.vercel.app)
+<a href="mailto:pandusf1@gmail.com">
 
-<br/><br/>
+<img src="https://img.shields.io/badge/Gmail-pandusf1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-*"Sistem yang baik bukan yang paling rumit, tapi yang paling terintegrasi."*
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1a0b2e&height=120&section=footer" width="100%"/>
+<a href="https://linkedin.com/in/pandusf1">
 
-</div>
+<img src="https://img.shields.io/badge/LinkedIn-Pandu_Safrilio_Fadhil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/pandusf1">
+
+<img src="https://img.shields.io/badge/GitHub-pandusf1-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://portfolio-pann.vercel.app">
+
+<img src="https://img.shields.io/badge/Portfolio-portfolio--pann.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# Support My Work
+
+<p align="center">
+
+<a href="https://github.com/pandusf1">
+
+<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/pandusf1?tab=repositories">
+
+<img src="https://img.shields.io/badge/Explore_Repositories-4F46E5?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/pandusf1?tab=stars">
+
+<img src="https://img.shields.io/badge/Star_My_Projects-7C3AED?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+# Engineering Philosophy
+
+> **"Great software is not merely code that works—it is a carefully engineered solution that transforms complex business processes into seamless, scalable, and intelligent digital experiences."**
+
+---
+
+<p align="center">
+
+### Building Enterprise Software • Automating Business Processes • Engineering Intelligent Solutions
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,35:7C3AED,65:8B5CF6,100:6366F1"/>
+
+</p>
