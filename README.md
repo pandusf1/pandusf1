@@ -213,17 +213,13 @@ Built an intelligent attendance platform using AI Face Recognition.
 
 ---
 
-# GitHub Trophies
+# Contribution Activity
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pandusf1&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandusf1&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </p>
-
----
-
-# Contribution Snake
 
 <p align="center">
 
@@ -269,26 +265,6 @@ Built an intelligent attendance platform using AI Face Recognition.
 
 ---
 
-# Support My Work
-
-<p align="center">
-
-<a href="https://github.com/pandusf1">
-
-<img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://github.com/pandusf1?tab=repositories">
-
-<img src="https://img.shields.io/badge/Explore_Repositories-4F46E5?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 ### Building Enterprise Software • Automating Business Processes • Engineering Intelligent Solutions
@@ -296,9 +272,3 @@ Built an intelligent attendance platform using AI Face Recognition.
 </p>
 
 ---
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:4F46E5,35:7C3AED,65:8B5CF6,100:6366F1"/>
-
-</p>
