@@ -83,7 +83,7 @@ My experience includes developing ERP platforms, AI-powered attendance systems, 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,dart,java,c,cpp"/>
+<img src="https://skillicons.dev/icons?i=php,js,ts,python,dart"/>
 
 </p>
 
@@ -105,23 +105,9 @@ My experience includes developing ERP platforms, AI-powered attendance systems, 
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vercel"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 
 </p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|---------|
-| Computer Vision | Advanced | Face Recognition Attendance |
-| AI Integration | Advanced | AI Financial Assistant |
-| Face API | Advanced | Face Detection & Authentication |
-| OCR | Intermediate | Document Processing |
-| Predictive Analytics | Intermediate | Financial Recommendation |
-| Business Intelligence | Advanced | ERP Reporting |
-| Process Automation | Advanced | Accounting Workflow |
 
 ---
 
@@ -131,7 +117,7 @@ My experience includes developing ERP platforms, AI-powered attendance systems, 
 
 **Mini ERP Retail Project**
 
-Sep 2025 — Jan 2026
+Sep 2025 - Jan 2026
 
 Responsible for analyzing business processes and implementing integrated ERP modules.
 
@@ -161,7 +147,7 @@ Responsible for analyzing business processes and implementing integrated ERP mod
 
 **AI Attendance Research Project**
 
-Feb 2025 — May 2025
+Feb 2025 - May 2025
 
 Built an intelligent attendance platform using AI Face Recognition.
 
@@ -180,18 +166,6 @@ Built an intelligent attendance platform using AI Face Recognition.
 `AI`
 `Database`
 `Backend`
-
----
-
-# Achievements
-
-| Recognition | Details |
-|--------------|---------|
-| ERP Developer | Built complete retail ERP platform |
-| AI Developer | Developed Face Recognition System |
-| Mobile Developer | Built AI Personal Finance App |
-| Student Leader | Head of Public Relations Division |
-| Business Analyst | ERP Business Process Design |
 
 ---
 
