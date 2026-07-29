@@ -125,77 +125,6 @@ My experience includes developing ERP platforms, AI-powered attendance systems, 
 
 ---
 
-# Featured Projects
-
-<details>
-
-<summary>
-
-## Mini ERP Retail System
-
-</summary>
-
-### Enterprise Retail ERP built from scratch.
-
-| Category | Details |
-|-----------|---------|
-| Stack | PHP Native, SQL, TiDB Cloud |
-| Scale | Multi Module ERP |
-| Performance | Optimized SQL |
-| Security | Authentication & Authorization |
-| Impact | Integrated Business Process |
-| Repository | https://github.com/pandusf1/Project |
-
-This project integrates Sales, Purchasing, Accounting, Inventory, Human Resource, Automatic Journal, FIFO Costing, and Business Reporting into one centralized platform.
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-## AI Attendance System
-
-</summary>
-
-| Category | Details |
-|-----------|---------|
-| Stack | PHP Native |
-| AI | Face API.js |
-| Database | TiDB Cloud |
-| Recognition | Face Detection |
-| Impact | Eliminated Attendance Fraud |
-
-Developed an AI-based attendance system using Face Recognition technology to automate classroom attendance while preventing proxy attendance.
-
-</details>
-
----
-
-<details>
-
-<summary>
-
-## Keuanganku Mobile App
-
-</summary>
-
-| Category | Details |
-|-----------|---------|
-| Stack | Flutter |
-| Architecture | Offline First |
-| AI | Financial Advisor |
-| Security | Local Storage |
-| Impact | Smart Personal Finance |
-
-Designed a mobile financial assistant capable of analyzing user spending habits and providing AI-generated financial recommendations.
-
-</details>
-
----
-
 # Experience
 
 ## System Analyst & Full Stack Developer
@@ -266,57 +195,13 @@ Built an intelligent attendance platform using AI Face Recognition.
 
 ---
 
-# Certifications
-
-## AWS
-
-![](https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws)
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-Database-red?style=for-the-badge&logo=oracle)
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Networking-blue?style=for-the-badge&logo=cisco)
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-green?style=for-the-badge)
-
----
-
-# Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
 # GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pandusf1&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandusf1&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pandusf1&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=pandusf1&theme=tokyonight"/>
 
 </p>
 
@@ -359,48 +244,6 @@ Built an intelligent attendance platform using AI Face Recognition.
 </picture>
 
 </p>
-
----
-
-# Current Focus
-
-```yaml
-learning:
-  - Enterprise Resource Planning
-  - Odoo Development
-  - Software Architecture
-  - Cloud Computing
-  - Artificial Intelligence
-  - Machine Learning
-  - System Design
-  - Distributed Systems
-
-building:
-  - Enterprise Retail ERP
-  - AI Personal Finance Assistant
-  - Accounting Information Systems
-  - Business Intelligence Dashboard
-  - ERP Implementation Portfolio
-
-exploring:
-  - Generative AI
-  - LLM Integration
-  - RAG Applications
-  - Cloud Native Development
-  - Event Driven Architecture
-  - DevOps Best Practices
-  - FinTech Technologies
-
-open_to:
-  - Software Engineer Internship
-  - ERP Consultant
-  - ERP Developer
-  - Backend Engineer
-  - Full Stack Engineer
-  - AI Engineer
-  - Business Analyst
-  - Open Source Collaboration
-```
 
 ---
 
@@ -452,19 +295,7 @@ open_to:
 
 </a>
 
-<a href="https://github.com/pandusf1?tab=stars">
-
-<img src="https://img.shields.io/badge/Star_My_Projects-7C3AED?style=for-the-badge&logo=github"/>
-
-</a>
-
 </p>
-
----
-
-# Engineering Philosophy
-
-> **"Great software is not merely code that works—it is a carefully engineered solution that transforms complex business processes into seamless, scalable, and intelligent digital experiences."**
 
 ---
 
