@@ -16,7 +16,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
 
 <a href="https://portfolio-pann.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -218,16 +218,6 @@ Built an intelligent attendance platform using AI Face Recognition.
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=pandusf1&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pandusf1&theme=tokyo-night&hide_border=true&radius=16"/>
 
 </p>
 
