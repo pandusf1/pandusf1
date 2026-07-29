@@ -144,7 +144,7 @@ My experience includes developing ERP platforms, AI-powered attendance systems, 
 | Performance | Optimized SQL |
 | Security | Authentication & Authorization |
 | Impact | Integrated Business Process |
-| Repository | https://github.com/pandusf1 |
+| Repository | https://github.com/pandusf1/Project |
 
 This project integrates Sales, Purchasing, Accounting, Inventory, Human Resource, Automatic Journal, FIFO Costing, and Business Reporting into one centralized platform.
 
